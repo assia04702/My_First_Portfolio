@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>My Portfolio</title>
+</head>
+<body>
+  <h1>Welcome to My Portfolio</h1>
+
+  <h2>About Me</h2>
+  <p>This is the first paragraph about me.</p>
+  <p>This is the second paragraph with more details.</p>
+  <p>This is the third paragraph about my skills.</p>
+  <p>This is the fourth paragraph about my projects.</p>
+
+  <h3>Contact Information</h3>
+  <p>You can reach me anytime for collaboration.</p>
+
+  <a href="https://example.com">Visit my projects</a>
+</body>
+</html>
+
