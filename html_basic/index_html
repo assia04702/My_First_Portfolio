@@ -23,3 +23,30 @@
 </body>
 </html>
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>My Portfolio</title>
+</head>
+<body>
+    <h1>Welcome to My Portfolio</h1>
+
+    <h2>About Me</h2>
+    <p>Hello! My name is Assia Gram. I am passionate about renewable energy and tec>
+    <p>I studied renewable energies and irrigation techniques, and I’m always learn>
+    <p>Currently, I’m exploring digital fields like web design, e-commerce, and con>
+    <p>My goal is to combine sustainability with digital innovation to make an impa>
+
+    <h3>Projects</h3>
+    <p>Here you can see some of the projects I’ve worked on and the skills I applie>
+
+    <!-- صورة قابلة للنقر -->
+    <a href="https://www.alxafrica.com/" target="_blank">
+        <img src="https://i.ibb.co/gTDZZT8/ALX-Logo-07.png" alt="ALX Logo">
+    </a>
+</body>
+</html>
+
+
+
